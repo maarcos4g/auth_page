@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/google.svg">
+    <img src="./.github/cover.jpg">
 </p>
 
 ## 💻 Projeto
